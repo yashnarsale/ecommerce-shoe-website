@@ -26,7 +26,7 @@ A basic and responsive e-commerce website for an online shoe store. This project
 
 | Home Page                          | Cart Page                         |
 |----------------------------------|-----------------------------------|
-| ![Homepage](screenshots/home.png) | ![Cart Page](screenshots/cart.png) |
+| ![Homepage](https://github.com/yashnarsale/ecommerce-shoe-website/blob/main/Screenshots/Screenshot%3AHome.png) | ![Cart Page](screenshots/cart.png) |
 
 ---
 
