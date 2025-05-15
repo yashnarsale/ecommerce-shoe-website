@@ -7,7 +7,7 @@ A basic and responsive e-commerce website for an online shoe store. This project
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
